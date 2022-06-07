@@ -1,0 +1,32 @@
+C:\Users\serge\source\repos\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.exe
+C:\Users\serge\source\repos\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.deps.json
+C:\Users\serge\source\repos\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.runtimeconfig.json
+C:\Users\serge\source\repos\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.runtimeconfig.dev.json
+C:\Users\serge\source\repos\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.dll
+C:\Users\serge\source\repos\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.pdb
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.AssemblyInfo.cs
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.dll
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\refint\Praktika6.dll
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.pdb
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.genruntimeconfig.cache
+C:\Users\serge\source\repos\Praktika6\Praktika6\obj\Debug\net5.0\ref\Praktika6.dll
+E:\Операционные системы\6\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.exe
+E:\Операционные системы\6\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.deps.json
+E:\Операционные системы\6\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.runtimeconfig.json
+E:\Операционные системы\6\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.runtimeconfig.dev.json
+E:\Операционные системы\6\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.dll
+E:\Операционные системы\6\Praktika6\Praktika6\bin\Debug\net5.0\Praktika6.pdb
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.csproj.AssemblyReference.cache
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.AssemblyInfoInputs.cache
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.AssemblyInfo.cs
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.csproj.CoreCompileInputs.cache
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.dll
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\ref\Praktika6.dll
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.pdb
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\Praktika6.genruntimeconfig.cache
+E:\Операционные системы\6\Praktika6\Praktika6\obj\Debug\net5.0\refint\Praktika6.dll
